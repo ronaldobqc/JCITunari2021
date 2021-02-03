@@ -1,0 +1,150 @@
+/* Responsive Css */
+@media screen and (max-width: 1440px) {
+	.shape-1{
+		
+		left: 9%;
+		top: 245px;
+	}
+	.shape-2 {
+		left: 6%;
+		bottom: 260px;
+	}
+	.shape-4{
+		right: 46%;
+		top: 245px;
+	}
+	.shape-3{
+		left: 15%;
+		bottom: 38px;
+	}
+	.shape-5{
+		left: 45%;
+		bottom: 200px;
+	}
+}
+
+@media screen and (max-width: 1199px) {
+	.about-jci-tunari .title_watermark {
+		font-size: 128px;
+		line-height: 200px;
+	}
+	.about_content{
+		padding-right: 0;
+	}
+	.about_image{
+		display: none;
+	}
+	.workflow-bg-shape{
+		display: none;
+	}
+	.single-process.text-center.pot-65{
+		top: 0;
+	}
+}
+
+@media screen and (max-width: 991px) {
+	.shape-1,
+	.shape-2,
+	.shape-3,
+	.shape-4,
+	.shape-5{
+		display: none;
+	}
+	.single_slider h2 {
+		font-size: 45px;
+	}
+	.home-banner-area{
+		background-image: inherit!important;
+		height: auto;
+		padding-bottom: 22px;
+	}
+	.single-service{
+		padding-bottom: 0;
+	}
+	.video-sec-content{
+		margin-bottom: 45px;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	.slicknav_nav {
+		top: -24px;
+	}
+	.header-top{
+		text-align: center;
+	}	
+	.header-top .float-left,
+	.header-top .float-right{
+		width: 100%;
+	}
+	.header-top .float-left p{
+		margin-bottom: 15px;
+	}
+	.home-banner-area h2 {
+		font-size: 37px;
+	}
+	.home-banner-area{
+		padding-top: 200px;
+	}
+	.home-banner-area .blue-btn,
+	.home-banner-area .green-btn{
+		margin-bottom: 30px;
+	}
+	#navigation{
+		display: none;
+	}
+	#mobile_menu{
+		display: block;
+	}
+	#home-slider .slick-dots{
+		display: none!important;
+	}
+	.single_slider {
+		padding: 365px 0 265px;
+	}
+	.single_slider a.blue-btn,
+	.single_slider a.green-btn{
+		margin-bottom: 15px;
+	}
+	.about-jci-tunari .title_watermark {
+		font-size: 75px;
+		line-height: normal;
+		top: 53px;
+	}
+	.section-title .title_watermark{
+		display: none;
+	}
+	.single-service {
+		padding-top: 50px;
+	}
+
+	.working-process {
+		padding: 160px 0 150px;
+	}
+	.single-process {
+		padding-bottom: 25px;
+	}
+	.single-team {
+		height: 440px;
+	}
+	#backtotop{
+		display: none;
+	}
+}
+
+@media screen and (max-width: 575px) {
+	.site_logo{
+		
+	}
+	.slicknav_menu{
+		position: relative;
+	}
+	.slicknav_btn {
+		top: -33px;
+		position: absolute;
+		right: 0;
+	}
+	.slicknav_nav {
+		top: 26px;		
+	}
+}
