@@ -110,7 +110,7 @@
 				<div class="single_slider" style="background-image: url(assets/img/slider/1.jpg);">
 					<div class="container text-center">
 						<h3>Junior Chamber International Tunari</h3>
-						<h2>#A Better Future</h2>
+						<h2>A Better Future</h2>
 						<ul class="slider_designation">
 							<li>Desarrollo</li>
 							<li>Innovación</li>
@@ -551,26 +551,6 @@
 								</div>
 							</div>
 						</div>
-						
-						
-						<div class="single-testimonial" >
-							<div class="tes-top">
-								<div class="float-left">
-									<img src="assets/img/icons/quotes-icon-blue.png" alt="quote icon" />
-								</div>									
-							</div>
-							<div class="clearfix"></div>
-							<p>
-                                Administrar una organización es el principio del crecimiento de una nación.
-                            </p>						
-							<div class="tes-footer">
-								<img src="assets/img/testimonials/2.png" alt="Testimonial Image" />
-								<div class="tes-name-des">
-									<h4>Katerine Marquez</h4>
-									<span>Dirección Administrativa</span>
-								</div>
-							</div>
-						</div>
 								
 						
 						<div class="single-testimonial" >
@@ -592,30 +572,6 @@
 								</div>
 							</div>
 						</div>
-							
-
-						
-						<div class="single-testimonial" >
-							<div class="tes-top">
-								<div class="float-left">
-									<img src="assets/img/icons/quotes-icon-blue.png" alt="quote icon" />
-								</div>							
-							</div>
-							<div class="clearfix"></div>
-							<p>
-								Creciendo juntos. </br>
-								Un niño una sonrisa </br> 
-								Presidente local JCI Tunari 2018
-							</p>
-							
-							<div class="tes-footer">
-								<img src="assets/img/testimonials/4.png" alt="Testimonial Image" />
-								<div class="tes-name-des">
-									<h4>Gabriela Martinez</h4>
-									<span>Dirección Nac. Protocolo</span>
-								</div>
-							</div>
-						</div>
 						
 						 						
 						<div class="single-testimonial" >
@@ -634,28 +590,6 @@
 								<div class="tes-name-des">
 									<h4>Emilse Lazo</h4>
 									<span>Direccion ODS</span>
-								</div>
-							</div>
-						</div>
-						 	
-
-													
-						<div class="single-testimonial" >
-							<div class="tes-top">
-								<div class="float-left">
-									<img src="assets/img/icons/quotes-icon-blue.png" alt="quote icon" />
-								</div>									
-							</div>
-							<div class="clearfix"></div>
-							<p>
-								No hay nadie tan fuerte que pueda hacerlo solo, ni nadie tan débil que no pueda ayudar.
-							</p>
-							
-							<div class="tes-footer">
-								<img src="assets/img/testimonials/6.png" alt="Testimonial Image" />
-								<div class="tes-name-des">
-									<h4>Paul Martinez</h4>
-									<span>Dirección RRSS</span>
 								</div>
 							</div>
 						</div>
